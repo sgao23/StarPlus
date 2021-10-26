@@ -1,4 +1,4 @@
-# StarPlus: Real-Time Visualization of Satellite Orbiting Earth
+# StarPlus: Real-Time Visualization of Satellite Orbiting
 
 A dashboard using React, D3-geo, & Ant Design backed by data crawled from n2yo.com to visualize satellite orbiting trajectory in real time on world map
 
