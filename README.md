@@ -1,3 +1,10 @@
+# StarPlus: Real-Time Visualization of Satellite Orbiting Earth
+
+A dashboard using React, D3-geo, & Ant Design backed by data crawled from n2yo.com to visualize satellite orbiting trajectory in real time on world map
+
+Multiple selectors (location, altitude, and duration) AVAILABLE to provide customized search and visualization
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
